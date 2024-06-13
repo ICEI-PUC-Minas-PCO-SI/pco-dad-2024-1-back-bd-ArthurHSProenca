@@ -3,11 +3,11 @@ Repositório para publicação das resoluções dos exercícios de Laboratório 
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno
+* Arthur Henrque da Silva Proença
 
 ## Professor responsável
 
-* Nome completo do professor
+* Leonardo Vilela Crdoso
 
 ## Instruções de Uso
 
