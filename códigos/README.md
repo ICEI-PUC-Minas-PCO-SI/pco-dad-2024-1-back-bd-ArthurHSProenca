@@ -1,3 +1,3 @@
 # Códigos
 
-* Inclua neste diretório todos os códigos produzidos
+* Nessa página se encontra todo o código base do sistema.
