@@ -1,3 +1,3 @@
 # Relatório
 
-* Inclua neste diretório o relatório produzido em latex
+* Nessa página se encontra toda a documentação detalhada em Latex sobre o desenvolvimento do trabalho.
